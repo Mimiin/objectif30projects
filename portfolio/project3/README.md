@@ -34,8 +34,6 @@ Ce projet a été créé dans le cadre de mon apprentissage autodidacte du langa
 
 ## 📱 Contact
 
-Tu as des questions, des suggestions, ou tu veux juste discuter de pyramides et de JavaScript ? 😆
-
 - 📧 **Email** : myriam.maatallahpro@gmail.com
 - 🐱‍💻 **GitHub** : (https://github.com/mimiin)
 
