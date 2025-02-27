@@ -25,7 +25,7 @@ Tu commences avec un simple **bâton** et tu dois affronter des monstres de plus
 
 ## Contexte
 
-Ce projet a été créé dans le cadre de mon apprentissage autodidacte du langage Javascript. L'idée était de travailler sur les boucles, les conditions et la manipulation de chaîne de caractère pour générer une forme visuelle simple mais esthétique dans la console. 🌱
+Ce projet a été créé dans le cadre de mon apprentissage autodidacte du langage Javascript. Je me suis beaucoup amusée pendant sa réalisation. Jusqu'ici mon projet préféré. 🌱
 
 ## difficultés
 
