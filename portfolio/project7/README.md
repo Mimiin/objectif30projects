@@ -29,7 +29,7 @@ Cette application est un lecteur de musique simple où l'utilisateur peut voir u
 
 - **Email** : myriam.maatallahpro@gmail.com
 - **GitHub** : [Mimiin] https://github.com/Mimiin
-  Vous pouvez suivre mes avancés sur CodeWars : https://www.codewars.com/users/Mimiin
+- **CodeWars** : Vous pouvez suivre mes avancées sur CodeWars : https://www.codewars.com/users/Mimiin
 
 Merci d'avoir consulté ce projet ! 🙏🎉
 
