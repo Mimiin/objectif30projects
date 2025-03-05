@@ -3,6 +3,7 @@
 ## Contexte 📝
 
 Le projet **Music Player** est une application web qui permet aux utilisateurs de lire des chansons 🎧, de naviguer entre les morceaux 🎶, de mettre en pause, de lire le suivant ou le précédent, et de trier les chansons de manière aléatoire ou par ordre alphabétique. Il sert de pratique pour améliorer les compétences en JavaScript, en manipulation du DOM, et en gestion des événements.
+Ce projet s'inscrit dans mon auto-apprentissage du code Javascript avec FreeCodeCamp.
 
 ## Description 📱
 
