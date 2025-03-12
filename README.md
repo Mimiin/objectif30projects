@@ -17,7 +17,7 @@ Voici quelques-uns des projets que vous trouverez dans mon portfolio :
 
 ## 🎯 Objectifs du Portfolio 🎯
 
-- **Montrer mes compétences** en développement front-end, principalement en HTML, CSS et JavaScript 💡.
+- **Montrer mes compétences** en développement front-end, principalement en HTML, CSS et JavaScript (pour le moment) 💡.
 - **Mettre en valeur ma progression** dans l'apprentissage de nouvelles technologies 🚀.
 - **Rechercher une alternance** pour obtenir une première expérience professionnelle dans le développement web 🌱💼.
 
