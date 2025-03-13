@@ -1,0 +1,90 @@
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #282828;
+    color: #f5f5f5;
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header styling */
+h1 {
+    color: #FF3377;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+label {
+    font-size: 1.2rem;
+    margin-right: 10px;
+    color: #FFCCDD;
+}
+
+input[type="number"] {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    font-size: 1.2rem;
+    border: 2px solid #FF3377;
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+input[type="number"]:focus {
+    border-color: #FF99CC;
+    box-shadow: 0 0 8px rgba(255, 51, 119, 0.5);
+}
+
+button {
+    padding: 12px 20px;
+    background-color: #FF3377;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #FF66B2;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(1);
+    background-color: #FF3377;
+}
+
+/* Output section */
+#output {
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 1.4rem;
+    background-color: #333333;
+    color: #FFCCDD;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+/* Styling for error or success message */
+#error {
+    color: #FF5555;
+}
+
+.success {
+    color: #66FF66;
+}
